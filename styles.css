@@ -79,7 +79,6 @@ body {
 }
 @media only screen and (max-width: 900px) {
   .form-names {
-    background-color: lightblue;
     width: 100%;
   }
   .names {
